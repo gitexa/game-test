@@ -1,14 +1,16 @@
 import keyboard
 import os
 
+import config as cfg
 
 # Open application
-print("Start libreoffice")
-os.system('libreoffice --writer')
+#print("Start libreoffice")
+#os.system('libreoffice --writer')
 
-time.sleep(3)    # pause 5.5 seconds
+#time.sleep(3)    # pause 5.5 seconds
 
-print("Write text")
+#print("Write text")
+
 
 
 
